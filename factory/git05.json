@@ -1,0 +1,9 @@
+{
+	"name": "git05",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7b57e1f5-c465-4f50-98a9-8316d85768e5",
+		"tenantId": "5deb6f95-4a43-4238-816e-3b00a6099709"
+	}
+}
